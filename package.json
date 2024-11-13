@@ -8,6 +8,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/precookedcode/react-text-cell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/precookedcode/react-text-cell/issues"
+  },
+  "homepage": "https://github.com/precookedcode/react-text-cell#readme",
   "author": "Roberto Carraro",
   "license": "ISC",
   "devDependencies": {
